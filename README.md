@@ -28,3 +28,5 @@ I tried to make it compact, although there's still many things I'd like to work 
 - Resize inventory
     - Compact items to first slots
     - Drop out items that don't fit in
+    
+© 2020 Olli Sorjonen All Rights Reserved
